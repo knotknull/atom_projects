@@ -45,7 +45,8 @@
   },
   "contributors": [],
   "dependencies": {
-    "minimatch": "^2.0.9"
+    "minimatch": ">=3.0.2"
+    
   },
   "description": "Open recent files in the current window, and recent folders (optionally) in a new window.",
   "devDependencies": {},
